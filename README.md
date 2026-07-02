@@ -362,11 +362,6 @@ CORS_ORIGIN=https://your-frontend-domain.com
 
 ---
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## 🙏 Acknowledgments
 
@@ -377,15 +372,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Framer Motion** for smooth animations
 - **Lucide** for beautiful icons
 
----
-
-## 📞 Support
-
-If you have any questions or need help with the project, please:
-
-1. Check the [Issues](https://github.com/your-username/SaaSify-Dashboard-Subscription-Management/issues) page
-2. Create a new issue if your problem isn't already reported
-3. Contact the maintainers
 
 ---
 
